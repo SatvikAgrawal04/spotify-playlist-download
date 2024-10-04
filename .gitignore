@@ -120,4 +120,4 @@ dist
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
 
 downloads/
-./main1.js
+main1.js
