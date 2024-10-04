@@ -1,0 +1,25 @@
+{
+  "name": "spotify-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.4.5",
+    "googleapis": "^144.0.0",
+    "ora": "^8.1.0",
+    "spotify-web-api-node": "^5.0.2",
+    "winston": "^3.14.2",
+    "youtube-dl-exec": "^3.0.10",
+    "yt-dlp-exec": "^1.0.2",
+    "yt-dlp-wrap": "^2.3.12",
+    "yt-search": "^2.12.1"
+  }
+}
